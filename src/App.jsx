@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import die1 from "./dice-1.png";
 import die2 from "./dice-2.png";
